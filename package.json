@@ -24,6 +24,9 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "ag-grid": "10.0.x",
+    "ag-grid-enterprise": "10.0.x",
+    "ag-grid-angular": "10.0.x",
     "@angular/common": "~4.0.0",
     "@angular/compiler": "~4.0.0",
     "@angular/core": "~4.0.0",
